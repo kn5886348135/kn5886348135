@@ -1,22 +1,22 @@
 ### Hi there 👋
 
 
-<h3 align="center">A passionate backend developer from China</h3>
+<h3 align="center">A passionate backend developer from China  🇨🇳 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kn5886348135&label=Profile%20views&color=0e75b6&style=flat" alt="kn5886348135" /> </p>
 
 
 - 🌱 I’m currently learning **Linux**
 
-- 👯 I’m looking to collaborate on **any open source**
+- 👯 I’m looking to collaborate on **Any Open Source**
 
-- 🤝 I’m looking for help with **gcc**
+- 🤝 I’m looking for help with **GCC**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kn5886348135](https://github.com/kn5886348135)
 
 - 📝 I regularly write articles on [https://www.goodserendipity.com/](https://www.goodserendipity.com/)
 
-- 💬 Ask me about **anything**
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **paladinfordring@gmail.com**
 
@@ -25,8 +25,8 @@
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p> -->
-
-<h3 align="left">Languages and Tools:</h3>
+<br>
+<h2 align="left">Languages and Tools</h2>
     <p align="left">
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
@@ -112,6 +112,8 @@
             <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
         </a>
     </p>
+    <br>
+    <h2 align="left">Stats</h2>
     <p>
         <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kn5886348135&show_icons=true&locale=en&layout=compact" alt="kn5886348135" />
     </p>
