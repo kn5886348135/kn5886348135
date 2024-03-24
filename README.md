@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 
-<h3 align="center">A passionate backend developer from China.</h3>
+<h3 align="center">I'am A passionate backend developer from China  </h3>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kn5886348135&label=Profile%20views&color=0e75b6&style=flat" alt="kn5886348135" /> </p>
 
@@ -29,7 +31,7 @@
 <h2 align="left">Languages and Tools</h2>
     <p align="left">
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+            <img src="https://www.kernel.org/theme/images/logos/tux.png" alt="linux" width="40" height="40"/>
         </a>
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
